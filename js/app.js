@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('SGAppList',[]);
+angular.module('minimalAngualrApp',[]);

@@ -1,0 +1,12 @@
+{
+  "name": "minimalAngularApp",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "",
+    "angular-bootstrap": "",
+    "jquery": "",
+    "bootstrap": ""
+  },
+  "appPath": "app",
+  "moduleName": "minimalAngularApp"
+}
