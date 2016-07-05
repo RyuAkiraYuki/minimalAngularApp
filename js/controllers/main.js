@@ -1,6 +1,6 @@
 'use strict';
 
 angular.module('minimalAngualrApp')
-    .controller('mainController', function ($scope, URICaller) {
+    .controller('mainController', function ($scope) {
         
     });
